@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/lysie/AndroidStudioProjects/Dashbord/app/src/main/res/drawable/dotted_line.xml" value="0.535" />
+        <entry key="..\:/Users/lysie/AndroidStudioProjects/Dashbord/app/src/main/res/layout/activity_main.xml" value="0.426890756302521" />
+        <entry key="..\:/Users/lysie/AndroidStudioProjects/Dashbord/app/src/main/res/layout/li_post.xml" value="0.5" />
+        <entry key="..\:/Users/lysie/AndroidStudioProjects/Dashbord/app/src/main/res/layout/testing.xml" value="0.44173913043478263" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
